@@ -1,0 +1,6 @@
+iniciales,puntos
+BBB,90
+CCC,70
+AAA,60
+DDD,40
+RRR,30
