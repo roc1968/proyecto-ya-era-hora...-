@@ -1,4 +1,4 @@
-# proyecto-ya-era-hora...-
+# proyecto
 
 Lo envío muy tarde (plazo expiró a las 11:55 pm de ayer).
 Entiendo que quede fuera del proceso de calificación por ello.
